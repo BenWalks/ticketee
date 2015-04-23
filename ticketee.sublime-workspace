@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"edi",
+				"edit_user_registration_path"
+			],
+			[
+				"creat",
+				"created_at"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"border-bottom",
+				"border-bottom-style"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"arti",
+				"article_path"
+			],
+			[
+				"redi",
+				"redirect_to"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"article",
+				"article_params"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 543.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ben/Desktop/dev/ticketee"
+	],
+	"file_history":
+	[
+		"/Users/ben/Desktop/dev/aff_test/spec/controllers/helper.rb",
+		"/Users/ben/Desktop/dev/aff_test/spec/rack_affiliates_spec.rb",
+		"/Users/ben/Desktop/dev/aff_test/spec/helper.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/spec/spec_helper.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/spec/controllers/static_pages_controller_spec.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/static_pages/index.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/trades/_trial_expired.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/charges/create.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/charges/new.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/.rspec",
+		"/Users/ben/Desktop/dev/tradergrowth/app/controllers/trades_controller.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/controllers/review_controller.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/config/environments/production.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/config/initializers/stripe.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/trades/edit.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/trades/show.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/config/routes.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/controllers/charges_controller.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/devise/mailer/reset_password_instructions.html.erb",
+		"/Users/ben/Desktop/dev/tradergrowth/config/secrets.yml",
+		"/Users/ben/Desktop/dev/tradergrowth/config/initializers/devise.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/config/environments/development.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/Gemfile",
+		"/Users/ben/Desktop/dev/tradergrowth/app/helpers/application_helper.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/layouts/application.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/stylesheets/application.scss",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/devise/registrations/new.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/devise/sessions/new.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/devise/registrations/edit.html.erb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/trades/_form_index.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/trades/_form.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/stylesheets/scaffolds.scss",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/stylesheets/static_pages.scss",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/kaminari/_paginator.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/review/_statistics.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/review/index.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/review/_show_trades.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/trades/_show_trades.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/trades/index.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/config/initializers/kaminari_config.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/application.js",
+		"/Users/ben/Desktop/dev/tradergrowth/vendor/assets/javascripts/jquery.infinitescroll.js",
+		"/Users/ben/Desktop/dev/tradergrowth/app/models/trade.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/devise/sessions/new.html.erb",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150324030925_add_extra_fields_to_trades.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/images/original/missing.png",
+		"/Users/ben/Desktop/dev/tradergrowth/public/assets/video-cc141a672fe6606da3a56439fc1687c1.gif",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/trades/index.json.jbuilder",
+		"/Users/ben/Desktop/dev/nifty.css",
+		"/Users/ben/Desktop/dev/tradergrowth/app/models/user.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/public/500.html",
+		"/Users/ben/Desktop/dev/tradergrowth/vendor/assets/stylesheets/bootplus.css",
+		"/Users/ben/Desktop/dev/tradergrowth/public/404.html",
+		"/Users/ben/Desktop/dev/tradergrowth/vendor/assets/stylesheets/bootplus-responsive.css",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/stylesheets/trades.scss",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/validator.js",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/charges.coffee",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/trades.coffee",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150309093145_add_extra_details_to_user.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150306112255_change_resultin_trades.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/controllers/application_controller.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/devise/registrations/new.html.erb",
+		"/Users/ben/Desktop/dev/tradergrowth/public/assets/favicon-ca79976d24aadcdbaacb785c75b63844.ico",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/review/show.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/stylesheets/charges.scss",
+		"/Users/ben/Desktop/dev/tradergrowth/.gitignore",
+		"/Users/ben/Desktop/dev/tradergrowth/config/application.yml",
+		"/Users/ben/Desktop/dev/tradergrowth/config/locales/devise.en.yml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/segmentio.js",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/analytics.js.erb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/controllers/static_pages_controller.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/static_pages/privacy.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/analytics.js",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/static_pages/tos.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/config/puma.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/Procfile",
+		"/Users/ben/Desktop/dev/tradergrowth/config/environment.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/stylesheets/tags_controller.scss",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/stylesheets/reviews.scss",
+		"/Users/ben/Desktop/dev/Freelancer - Start Bootstrap Theme.html",
+		"/Users/ben/Desktop/dev/test.css",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/jquery.form.js",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/require.js",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/tags_controller.coffee",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/static_pages.coffee",
+		"/Volumes/Bens Drive/index.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/devise/passwords/new.html.erb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/devise/passwords/edit.html.erb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/helpers/charges_helper.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/helpers/reviews_helper.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/devise/mailer/confirmation_instructions.html.erb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/stripe_handlers/charge_succeeded.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/config/initializers/stripe_event.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/log/development.log",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/layouts/charges.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/config.ru",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150305102545_add_trade_unit_to_users.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150306112034_change_trade_unitin_users.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/test/models/trade_test.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/tmp/cache/assets/development/sass/61f101c4674d8d3ae0003b92a82b71b0e04cbd54/_table-row.scssc",
+		"/Users/ben/Desktop/dev/tradergrowth/tg.sublime-project",
+		"/Users/ben/Desktop/dev/tradergrowth/Rakefile",
+		"/Users/ben/Desktop/dev/tradergrowth/config/application.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/config/database.yml",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150220114749_acts_as_taggable_on_migration.acts_as_taggable_on_engine.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150220114750_add_missing_unique_indices.acts_as_taggable_on_engine.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150220114751_add_taggings_counter_cache_to_tags.acts_as_taggable_on_engine.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150220114752_add_missing_taggable_index.acts_as_taggable_on_engine.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150221003956_add_attachment_screenshot_to_trades.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150301111346_add_user_id_to_trades.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/trades/new.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150305_change_trade_unit_from_float_to_integer.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/db/migrate/20150301110822_devise_create_users.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/Gemfile.lock",
+		"/Users/ben/Downloads/jquery-validation-1.13.1/lib/require.js",
+		"/Users/ben/Downloads/jquery-validation-1.13.1/lib/jquery.form.js",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/review.coffee",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/tags/show.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/tags/review.html.erb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/controllers/tags_controller.rb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/tags/index.html.erb",
+		"/Users/ben/Desktop/dev/tradergrowth/app/views/tags/_show_trades.html.haml",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/jquery-ui.theme.min.css",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/jquery-ui.theme.css",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/jquery-ui.structure.min.css",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/jquery-ui.structure.css",
+		"/Users/ben/Desktop/dev/tradergrowth/app/assets/javascripts/jquery-ui.min.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			"/Users/ben/Desktop/dev/tradergrowth"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar-default",
+			"777",
+			"nav",
+			"navbar",
+			"#ADB3B8;",
+			"border-radius: 4px",
+			"4px",
+			"navbar",
+			"radius",
+			"time",
+			"user",
+			"tradervue",
+			"tradejournal",
+			"tradervue",
+			"333",
+			"25",
+			"journalling",
+			"@resource",
+			"cancel",
+			"]",
+			"aws_access_key",
+			"= render 'show_trades'",
+			"else",
+			"postgres",
+			"pips",
+			"                    @",
+			"body",
+			"responsive",
+			"review_path",
+			"\")\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 104.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ticketee.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"mailer",
+				"app/views/devise/mailer/reset_password_instructions.html.erb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"charges_",
+				"app/controllers/charges_controller.rb"
+			],
+			[
+				"trade_",
+				"app/controllers/trades_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
