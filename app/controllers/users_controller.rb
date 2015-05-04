@@ -1,4 +1,7 @@
 class UsersController < ApplicationController
+  before_action :set_user, only: [:show,
+                                  :edit,
+                                  :update]
   def new
     @user = User.new
   end
@@ -15,8 +18,23 @@ class UsersController < ApplicationController
   end
 
   def show
+    @name = @user.name
+    @email = @user.email
   end
   
+  def edit
+  end
+  
+  def update
+    if @user.update(user_params)
+      flash[:notice] = "Profile has been updated."
+      redirect_to user_path
+    else
+      flash[:alert] = "Profile wasn't updated."
+      render :edit
+    end
+  end
+
   private
   
     def user_params
@@ -24,4 +42,9 @@ class UsersController < ApplicationController
                                   :password,
                                   :password_confirmation)
     end
+
+    def set_user
+      @user = User.find(params[:id])
+    end
+
 end
