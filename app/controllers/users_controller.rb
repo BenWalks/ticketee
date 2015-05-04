@@ -18,8 +18,6 @@ class UsersController < ApplicationController
   end
 
   def show
-    @name = @user.name
-    @email = @user.email
   end
   
   def edit
